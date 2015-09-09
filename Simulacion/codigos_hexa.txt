@@ -1,0 +1,31 @@
+codigos para testbench -> 27 teclas
+
+	Tecla	|	Hexa
+       ----------------------
+	5	|	2E
+	P	|	4D
+	H	|	33
+	E	|	24
+	2	|	1E
+	Y	|	35
+	X	|	22
+	1	|	16
+	8	|	3E
+	R	|	2D
+	M	|	3A
+	5	|	2E
+	W	|	1D
+	shift	|	59
+	S	|	1B
+	ctrl	|	14
+	[	|	54
+	U	|	3C
+	3	|	26
+	.	|	41
+	P	|	4D
+	;	|	4C
+	L	|	4B
+	A	|	1C
+	J	|	3B
+	4	|	25
+	M	|	3A
